@@ -12,3 +12,8 @@
 		}
 		return major;
 	}
+// this algo is used to solve majority element in array
+/*
+1.leetcode 169
+2.leetcode 229
+*/
